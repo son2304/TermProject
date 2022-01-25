@@ -1,3 +1,5 @@
+package TermProject;
+
 // 2021-2 DB Term Project 20205127 손무경
 
 import java.awt.Color;
